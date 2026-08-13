@@ -9,3 +9,4 @@ This repo is my notebook where I will:
 - Experiment with simple things at home
 - Reflect on what I understand and what I find confusing
 - Use for future 
+![Docker Minecraft server running](Docker app)
