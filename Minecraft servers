@@ -1,0 +1,10 @@
+First Experement: Building a stable minecraft server for buddies to play on (started January 2026)
+This experiment is done with no knowledge prior of networks or minecraft servers.
+2/13/26:
+  -Created a container for the minecraft server using Docker
+  -Configured server settings such as dedicated RAM, server rules, Java image, and modpacks
+2/14/26:
+  -Learned about port and network connectivity
+  -Configured server's port
+  -Downloaded Playit.gg as a tool for external connectivity
+  -
