@@ -31,3 +31,5 @@ This experiment is done with no knowledge prior of networks or minecraft servers
     -run "docker compose up -d"
     -server is now operational with mods installed
   -I didn't run into any problems because I didn't have to change the image the server was running on because the modpack was made for the same verison of minecraft
+  -Docker server running 
+![Docker Minecraft server running](docker-server.png)
