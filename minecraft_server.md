@@ -10,13 +10,21 @@ This experiment is done with no knowledge prior of networks or minecraft servers
   -Found and downloaded server side mods and downloaded main modpack
 5/16/26: 
   -Looked into the docker-compose.yml file which is server configuration
+  
   -Tweaked memory allocation and allocated 12 gb of RAM
+  
   -Started vanilla mineceraft server for the first time, server is working and friends can join
+  
 5/17/26: 
+
   -Installed modpacks onto server and reload
+  
   -ran into an error after executing "docker compose up -d" (command for docker to read compose and create server)
+  
   -Found out that the image the server was running was the wrong image; changed to java 21
+  
   -Ran docker compose up -d again and successfully made container for the modded server
+  
 5/18/26:
   -Friends wanted a different modpack, watched video on how to deactivate the container:
     -Press stop to stop the server
