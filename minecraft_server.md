@@ -23,6 +23,9 @@ This experiment is done with no knowledge prior of networks or minecraft servers
 
 5/16/26: 
   -Looked into the docker-compose.yml file which is server configuration
+
+  -inside of the docker-compose.yml file:
+  ![Compose file (server settings)](docker-server.png)
   
   -Tweaked memory allocation and allocated 12 gb of RAM
   
