@@ -1,6 +1,6 @@
-First Experement: Building and maintaining a Minecraft server using docker and playit.gg (started May 2026)
+*First Experement: Building and maintaining a Minecraft server using docker and playit.gg (started May 2026)*
 
-This experiment is done with no knowledge prior of networks or minecraft servers, and the server was built for the purpose so that my friends could play on it and learn the underlying technologies through troubleshooting and experimenting
+*This experiment is done with no knowledge prior of networks or minecraft servers, and the server was built for the purpose so that my friends could play on it and learn the underlying technologies through troubleshooting and experimenting*
 
 
 5/13/26:
