@@ -45,7 +45,7 @@ This experiment is done with no knowledge prior of networks or minecraft servers
   
 5/18/26:
 
-  -Friends wanted a different modpack, watched video on how to deactivate the container and then install the new modpack:
+  -Friends wanted a different modpack, watched video (https://www.youtube.com/watch?v=_MsjBmz8NyM) on how to deactivate the container and then install the new modpack:
   
     -Press stop to stop the server
     
