@@ -73,3 +73,9 @@ This experiment is done with no knowledge prior of networks or minecraft servers
   
   -Docker server running 
 ![Docker Minecraft server running](docker-server.png)
+
+
+5/20/26: 
+  -Ran into a problem where players would get kicked while using items that make you fall slower through the air/make you fly
+  -This happened due to the default setting within Minecraft, that automatically kicks players who stay in the air for extended amounts of time to prevent cheats.
+  -This was a very simple fix by going into the server.properties file and finding the line containing "allow-flight-false", and simply changing the false to a true.
