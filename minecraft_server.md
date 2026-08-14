@@ -1,4 +1,4 @@
-First Experement: Building a stable minecraft server for buddies to play on (started May 2026)
+First Experement: Building and maintaining a Minecraft server using docker and playit.gg (started May 2026)
 
 This experiment is done with no knowledge prior of networks or minecraft servers.
 
